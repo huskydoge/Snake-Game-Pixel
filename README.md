@@ -1,4 +1,4 @@
-[TOC]
+
 # 文件结构
 ```
 SnakeGame.zip
